@@ -37,6 +37,7 @@ Record your responses inside the fenced code blocks below each question.
     ```md
     The second route is dynamic and nests the product id within products.
     The second route is an example of a masking path.
+    The second route represents a different view state.
     ```
 
 1.  Suppose we have the following route definition:
